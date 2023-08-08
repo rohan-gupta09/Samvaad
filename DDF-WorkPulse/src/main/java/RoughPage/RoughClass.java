@@ -27,6 +27,7 @@ public class RoughClass {
 	     Thread.sleep(5000);
 	      driver.findElement(By.xpath("(//input[@name='btnK'])[1]")).click();
 	      driver.close();
+	      System.out.println("First - Commit");
 		
 		
 		
